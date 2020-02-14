@@ -1,2 +1,2 @@
 # databricks-demo-pandas-udf
-A brief demo showing how to use Pandas UDFs with Spark
+A brief demo showing how to use Pandas User-Defined Functions with Spark
