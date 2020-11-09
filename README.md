@@ -2,8 +2,6 @@
 
 This project contains a notebook and other resources for a __Databricks Pandas User-Defined Functions demo__.
 
-To install and run this demo in your own Databricks environment:
+To run this workshop, import import this notebook: https://github.com/billkellett/databricks-demo-pandas-udf/blob/master/notebooks/Pandas_UDF_Demo.dbc
 
-1. Download the .dbc file from the /notebooks folder and import it into Databricks (for some reason I have trouble importing this as a URL).
-
-2. Open the notebook and follow its step-by-step instructions.
+This notebook will run on Azure or AWS Databricks. It will not run on Community Edition.
